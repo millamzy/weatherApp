@@ -164,24 +164,24 @@ body{
 
 
     .weather h1 {
-        margin-top: -20px;
+        margin-top: -10px;
         font-size: 40px; /* Adjust as needed */
     }
 
     .weather h2 {  
-        font-size: 30px; /* Adjust as needed */
+        font-size: 35px; /* Adjust as needed */
     }
 
     .details {
         display: flex;
         align-items: center;
         justify-content: space-between;
-        margin-top: 10px;
+        margin-top: 11px;
     }
 
     .col img {
         /* margin-top: -10px; */
-        width: 20px; /* Adjust as needed */
+        width: 30px; /* Adjust as needed */
     }
 
     .humidity,
